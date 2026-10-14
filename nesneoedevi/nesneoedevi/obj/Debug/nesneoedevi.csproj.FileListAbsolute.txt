@@ -1,0 +1,10 @@
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\bin\Debug\nesneoedevi.exe.config
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\bin\Debug\nesneoedevi.exe
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\bin\Debug\nesneoedevi.pdb
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.csproj.AssemblyReference.cache
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.Form1.resources
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.Properties.Resources.resources
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.csproj.GenerateResource.cache
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.exe
+C:\Users\gokce\OneDrive\Masaüstü\sima\nesneoedevi\nesneoedevi\obj\Debug\nesneoedevi.pdb
